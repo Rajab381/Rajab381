@@ -1,10 +1,10 @@
 <div align="center">
 
-# EDITH
+# Rajab Ghufran 
 
-### Artificial Intelligence Operating System
+### BS Robotics and Intelligent System '27
 
-Building Intelligent Systems through Computer Vision, Robotics and Deep Learning.
+Building Intelligent Systems through Computer Vision, Robotics, Deep Learning. and AI. 
 
 ---
 
@@ -15,7 +15,7 @@ Building Intelligent Systems through Computer Vision, Robotics and Deep Learning
 Computer Vision • Robotics • Artificial Intelligence • Deep Learning
 
 </p>
-# 👋 About Me
+👋 About Me
 
 I am **Rajab Ghufran**, a Robotics and Intelligent Systems undergraduate passionate about building intelligent systems that combine Computer Vision, Robotics, and Artificial Intelligence.
 
@@ -26,15 +26,15 @@ I enjoy developing projects that solve real-world problems using AI while contin
 ### Languages
 
 - Python
-- C++
+- Java
 - MATLAB
 
 ### Artificial Intelligence
 
-- OpenCV
-- PyTorch
-- TensorFlow
-- YOLO
+- RAG
+- LLM
+- Whisper AI
+- Llama
 - Vision Transformers
 
 ### Robotics
@@ -46,12 +46,12 @@ I enjoy developing projects that solve real-world problems using AI while contin
 ### Tools
 
 - Git
-- Linux
+- Linux / Ubuntu
 
 # 🚀 Featured Projects
 
 - 🤖 Edith AI 
 - 👁️ Dev flow 
 - 🎬 Human detection using YOLO
-- 🚁 PX4 Drone Simulation
+- 🚁 Person Follower Robot using Raspberry pi 5 
 - 🧠 RAG document finder 
