@@ -141,8 +141,6 @@ LLM • RAG • Python
 🟢 Goal         : AI Engineer and Robotics Engineer
 ```
 
-
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -159,18 +157,8 @@ LLM • RAG • Python
 
 ## 📊 GitHub Statistics
 
-
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajab381&theme=github_dark" width="100%"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rajab381/Rajab381/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 <p align="center">
