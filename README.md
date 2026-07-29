@@ -1,21 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,20,24&text=Rajab%20Ghufran&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics&descAlignY=55"/>
 
-```text
-> Initializing Rajab Ghufran...
-
-█████████████████████████████ 100%
-
-Loading Artificial Intelligence .......... ✓
-
-Loading Computer Vision ................. ✓
-
-Loading Robotics ......................... ✓
-
-Loading Deep Learning .................... ✓
-
-Status : ONLINE
-```
-
 <div align="center">
 
 ### BS Robotics & Intelligent Systems 
@@ -31,7 +15,7 @@ Status : ONLINE
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2"/>
 
 👋 About Me
 
@@ -53,7 +37,7 @@ I'm always open to connecting with people who are passionate about AI, robotics,
 <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2"/>
 
 ### 🧠 Artificial Intelligence
 
@@ -65,7 +49,7 @@ I'm always open to connecting with people who are passionate about AI, robotics,
 <img src="https://img.shields.io/badge/Vision%20Transformers-FF4088?style=for-the-badge"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2"/>
 
 ### 🤖 Robotics
 
@@ -75,7 +59,7 @@ I'm always open to connecting with people who are passionate about AI, robotics,
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2"/>
 
 ### 🛠️ Tools
 
