@@ -71,13 +71,65 @@ I enjoy developing projects that solve real-world problems using AI while contin
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🤖 **Edith AI** | AI assistant with speech recognition, LLM integration and automation. | Python · Whisper · Llama · RAG |
-| 👁️ **Dev Flow** | AI-powered workflow assistant for developers. | Python · LLM · Git |
-| 🎯 **Human Detection using YOLO** | Real-time human detection using Computer Vision. | Python · OpenCV · YOLO |
-| 🚶 **Person Follower Robot** | Autonomous robot using Raspberry Pi 5 and Computer Vision. | ROS2 · Raspberry Pi · Python |
-| 📚 **RAG Document Finder** | Intelligent document retrieval using Retrieval-Augmented Generation. | RAG · LLM · Python |
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3>🤖 Edith AI</h3>
+
+AI assistant integrating Whisper, LLMs, and Retrieval-Augmented Generation.
+
+<b>Tech:</b>
+
+Python • Whisper • Llama • RAG
+
+</td>
+
+<td width="50%">
+
+<h3>🚶 Person Follower Robot</h3>
+
+Autonomous robot capable of detecting and following humans using Computer Vision.
+
+<b>Tech:</b>
+
+ROS2 • Raspberry Pi • Python
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>👁 Human Detection using YOLO</h3>
+
+Real-time human detection system using YOLO and OpenCV.
+
+<b>Tech:</b>
+
+YOLO • OpenCV • Python
+
+</td>
+
+<td width="50%">
+
+<h3>📚 RAG Document Finder</h3>
+
+Retrieval-Augmented Generation system for intelligent document search.
+
+<b>Tech:</b>
+
+LLM • RAG • Python
+
+</td>
+
+</tr>
+
+</table>
 
 ## 🎯 Current Focus
 
@@ -95,7 +147,7 @@ I enjoy developing projects that solve real-world problems using AI while contin
 
 <p align="center">
 
-<a href="www.linkedin.com/in/rajab-ghufran-506987315">
+<a href="https://www.linkedin.com/in/rajab-ghufran-506987315">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
