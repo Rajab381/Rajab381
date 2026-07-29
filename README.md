@@ -2,7 +2,7 @@
 
 # Rajab Ghufran
 
-### Robotics & Intelligent Systems Undergraduate
+### BS Robotics & Intelligent Systems 
 
 <p align="center">
 
@@ -18,10 +18,9 @@
 ---
 
 👋 About Me
-
-I am **Rajab Ghufran**, a Robotics and Intelligent Systems undergraduate passionate about building intelligent systems that combine Computer Vision, Robotics, and Artificial Intelligence.
-
-I enjoy developing projects that solve real-world problems using AI while continuously expanding my skills in Deep Learning, ROS2, Embedded Systems, and modern computer vision techniques.
+I'm passionate about building AI that goes beyond notebooks and experiments—AI that people can actually use.
+Whether it's developing intelligent assistants, exploring large language models, building computer vision applications, or integrating AI into robotics, I enjoy turning ideas into real products through continuous learning and hands-on development. I believe the best way to learn is by building. Every project teaches something new, and every challenge becomes an opportunity to improve—not just as an engineer, but as a problem solver.
+I'm always open to connecting with people who are passionate about AI, robotics, and emerging technologies.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=7F3FBF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Robotics+Enthusiast;Building+Intelligent+Systems;Always+Learning..." />
