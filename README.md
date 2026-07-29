@@ -59,8 +59,7 @@ I enjoy developing projects that solve real-world problems using AI while contin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajab381&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajab381&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajab381&theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
