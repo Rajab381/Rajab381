@@ -83,7 +83,7 @@ I enjoy developing projects that solve real-world problems using AI while contin
 🟢 Goal         : AI Engineer and Robotics Engineer
 ```
 
-## 📊 GitHub Statistics
+
 
 ## 🤝 Let's Connect
 
@@ -99,6 +99,7 @@ I enjoy developing projects that solve real-world problems using AI while contin
 
 </p>
 
+## 📊 GitHub Statistics
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajab381&theme=github_dark" width="100%"/>
 </p>
