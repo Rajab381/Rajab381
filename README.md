@@ -21,32 +21,47 @@ I am **Rajab Ghufran**, a Robotics and Intelligent Systems undergraduate passion
 
 I enjoy developing projects that solve real-world problems using AI while continuously expanding my skills in Deep Learning, ROS2, Embedded Systems, and modern computer vision techniques.
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-- Python
-- Java
-- MATLAB
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
 
-### Artificial Intelligence
+---
 
-- RAG
-- LLM
-- Whisper AI
-- Llama
-- Vision Transformers
+### 🧠 Artificial Intelligence
 
-### Robotics
+<p align="left">
+<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vision%20Transformers-FF4088?style=for-the-badge"/>
+</p>
 
-- ROS2
-- Raspberry Pi
-- Arduino
+---
 
-### Tools
+### 🤖 Robotics
 
-- Git
-- Linux / Ubuntu
+<p align="left">
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
 
 # 🚀 Featured Projects
 
@@ -74,14 +89,3 @@ I enjoy developing projects that solve real-world problems using AI while contin
 <img src="https://github-profile-trophy.vercel.app/?username=Rajab381&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-
-</p>
