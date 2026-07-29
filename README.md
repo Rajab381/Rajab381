@@ -12,7 +12,10 @@ Building Intelligent Systems through Computer Vision, Robotics, Deep Learning. a
 
 <p align="center">
 
-Computer Vision • Robotics • Artificial Intelligence • Deep Learning
+<img src="https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Robotics-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-green?style=flat-square"/>
 
 </p>
 👋 About Me
@@ -20,6 +23,10 @@ Computer Vision • Robotics • Artificial Intelligence • Deep Learning
 I am **Rajab Ghufran**, a Robotics and Intelligent Systems undergraduate passionate about building intelligent systems that combine Computer Vision, Robotics, and Artificial Intelligence.
 
 I enjoy developing projects that solve real-world problems using AI while continuously expanding my skills in Deep Learning, ROS2, Embedded Systems, and modern computer vision techniques.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=7F3FBF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Robotics+Enthusiast;Building+Intelligent+Systems;Always+Learning..." />
+</p>
 
 ## ⚙️ Tech Stack
 
@@ -104,9 +111,7 @@ I enjoy developing projects that solve real-world problems using AI while contin
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajab381&theme=github_dark" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=7F3FBF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Robotics+Enthusiast;Building+Intelligent+Systems;Always+Learning..." />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajab381&label=Profile%20Views&color=7F3FBF&style=flat-square" />
