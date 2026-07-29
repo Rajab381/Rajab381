@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,20,24&text=Rajab%20Ghufran&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics&descAlignY=55"/>
+
 <div align="center">
 
 # Rajab Ghufran
