@@ -1,23 +1,26 @@
 <div align="center">
 
-# Rajab Ghufran 
+# Rajab Ghufran
 
-### BS Robotics and Intelligent System '27
+### Robotics & Intelligent Systems Undergraduate
 
-Building Intelligent Systems through Computer Vision, Robotics, Deep Learning. and AI. 
-
----
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Robotics+Enthusiast;Deep+Learning+Explorer;Building+Intelligent+Systems" />
+</p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Robotics-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-16A34A?style=for-the-badge"/>
 
 </p>
+
+</div>
+
+---
+
 👋 About Me
 
 I am **Rajab Ghufran**, a Robotics and Intelligent Systems undergraduate passionate about building intelligent systems that combine Computer Vision, Robotics, and Artificial Intelligence.
