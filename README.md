@@ -162,8 +162,15 @@ LLM • RAG • Python
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajab381&label=Profile%20Views&color=7F3FBF&style=flat-square" />
+
+<img src="https://komarev.com/ghpvc/?username=Rajab381&label=Visitors&color=8A2BE2&style=for-the-badge"/>
+
 </p>
 
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
 
 
