@@ -101,11 +101,5 @@ I enjoy developing projects that solve real-world problems using AI while contin
   <img src="https://komarev.com/ghpvc/?username=Rajab381&label=Profile%20Views&color=7F3FBF&style=flat-square" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajab381&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rajab381&style=for-the-badge&color=blueviolet"/>
-</p>
 
