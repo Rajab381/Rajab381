@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B3D2E,100:00A67E&text=Rajab%20Ghufran&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Artificial%20Intelligence%20•%20Computer%20Vision%20•%20Robotics&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:081C15,50:0B6E4F,100:159A72&text=Rajab%20Ghufran&fontColor=ffffff&fontSize=60&fontAlignY=42&animation=fadeIn"/>
 
 <div align="center">
 
