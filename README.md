@@ -107,11 +107,20 @@ I enjoy developing projects that solve real-world problems using AI while contin
 </p>
 
 ## 📊 GitHub Statistics
+
+
+
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajab381&theme=github_dark" width="100%"/>
 </p>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Rajab381/Rajab381/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajab381&label=Profile%20Views&color=7F3FBF&style=flat-square" />
