@@ -63,15 +63,31 @@ I enjoy developing projects that solve real-world problems using AI while contin
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 🤖 Edith AI 
-- 👁️ Dev flow 
-- 🎬 Human detection using YOLO
-- 🚁 Person Follower Robot using Raspberry pi 5 
-- 🧠 RAG document finder 
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🤖 **Edith AI** | AI assistant with speech recognition, LLM integration and automation. | Python · Whisper · Llama · RAG |
+| 👁️ **Dev Flow** | AI-powered workflow assistant for developers. | Python · LLM · Git |
+| 🎯 **Human Detection using YOLO** | Real-time human detection using Computer Vision. | Python · OpenCV · YOLO |
+| 🚶 **Person Follower Robot** | Autonomous robot using Raspberry Pi 5 and Computer Vision. | ROS2 · Raspberry Pi · Python |
+| 📚 **RAG Document Finder** | Intelligent document retrieval using Retrieval-Augmented Generation. | RAG · LLM · Python |
 
 ## 📊 GitHub Statistics
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="www.linkedin.com/in/rajab-ghufran-506987315">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:infinity.essence11@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajab381&theme=github_dark" width="100%"/>
@@ -87,5 +103,9 @@ I enjoy developing projects that solve real-world problems using AI while contin
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Rajab381&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rajab381&style=for-the-badge&color=blueviolet"/>
 </p>
 
