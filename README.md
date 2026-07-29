@@ -18,6 +18,7 @@
 ---
 
 👋 About Me
+
 I'm passionate about building AI that goes beyond notebooks and experiments—AI that people can actually use.
 Whether it's developing intelligent assistants, exploring large language models, building computer vision applications, or integrating AI into robotics, I enjoy turning ideas into real products through continuous learning and hands-on development. I believe the best way to learn is by building. Every project teaches something new, and every challenge becomes an opportunity to improve—not just as an engineer, but as a problem solver.
 I'm always open to connecting with people who are passionate about AI, robotics, and emerging technologies.
