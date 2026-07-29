@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# Rajab Ghufran
-
 ### BS Robotics & Intelligent Systems 
 
 <p align="center">
