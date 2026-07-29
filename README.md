@@ -73,6 +73,16 @@ I enjoy developing projects that solve real-world problems using AI while contin
 | 🚶 **Person Follower Robot** | Autonomous robot using Raspberry Pi 5 and Computer Vision. | ROS2 · Raspberry Pi · Python |
 | 📚 **RAG Document Finder** | Intelligent document retrieval using Retrieval-Augmented Generation. | RAG · LLM · Python |
 
+## 🎯 Current Focus
+
+```text
+🟢 Building     : AI Applications & Intelligent Systems
+🟢 Learning     : LLMs • RAG • Computer Vision
+🟢 Robotics     : ROS2 • Raspberry Pi
+🟢 Exploring    : Vision Transformers & AI Agents
+🟢 Goal         : AI Engineer and Robotics Engineer
+```
+
 ## 📊 GitHub Statistics
 
 ## 🤝 Let's Connect
